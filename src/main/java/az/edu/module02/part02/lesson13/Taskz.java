@@ -18,11 +18,5 @@ public class Taskz {
         );
         System.out.println(map);
 
-
-
-
-
-
-
     }
 }
